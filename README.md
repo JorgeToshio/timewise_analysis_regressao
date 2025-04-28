@@ -29,7 +29,7 @@ timewise_analysis/
 ### Como Executar
 1. **Clonar o Repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/JorgeToshio/timewise_analysis_regressao.git>
    cd timewise_analysis
    ```
 
